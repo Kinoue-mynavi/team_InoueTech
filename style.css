@@ -1,0 +1,17 @@
+h1 {
+    background-color: blanchedalmond;
+    padding-inline: 8px;
+}
+
+h2 {
+    border-bottom: 2px solid blanchedalmond;
+    padding-inline: 8px;
+}
+
+ol {
+    padding-block: 16px;
+}
+
+li {
+    line-height: 2;
+}
